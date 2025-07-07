@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/icon.png</file>
+        <file>icon/icon2.png</file>
+        <file>icon/icon3.png</file>
+        <file>icon/icon4.png</file>
+        <file>icon/icon5.png</file>
+        <file>icon/icon6.png</file>
+        <file>icon/icon7.png</file>
+        <file>icon/icon8.png</file>
+        <file>icon/icon9.png</file>
+        <file>icon/icon10.png</file>
+        <file>icon/icon12.png</file>
+        <file>icon/icon13.png</file>
+        <file>icon/icon14.png</file>
+        <file>icon/icon16.png</file>
+        <file>icon/icon17.png</file>
+        <file>icon/icon18.png</file>
+        <file>icon/icon19.png</file>
+        <file>icon/icon20.png</file>
+        <file>icon/icon21.png</file>
+        <file>icon/icon22.png</file>
+        <file>icon/icon23.png</file>
+        <file>icon/icon24.png</file>
+        <file>icon/icon25.png</file>
+        <file>icon/icon26.png</file>
+        <file>icon/icon27.png</file>
+        <file>icon/icon28.png</file>
+        <file>icon/icon15.png</file>
+        <file>icon/icon11.png</file>
+        <file>icon/icon1.png</file>
+    </qresource>
+</RCC>
